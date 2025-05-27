@@ -17,8 +17,8 @@ Para visualizar o código e os resultados diretamente pelo GitHub, basta clicar 
 
 Certifique-se de que os seguintes arquivos estejam no mesmo diretório do notebook para garantir o funcionamento correto durante a execução:
 
-- `100mA.txt` (Arquivo de dados espectroscópicos, contendo Intensidade x Comprimento de Onda em nm. Pode ser modificado por outros dados de espectros)
-- `RxTe.dat` (Arquivo contendo a o gráfico de Razão x Temperatura Eletrônica de André Ricard. NUNCA MODIFIQUE ESSE ARQUIVO)
+- `100mA.txt` — Arquivo de dados espectroscópicos, contendo Intensidade x Comprimento de Onda em nm. Pode ser modificado por outros dados de espectros
+- `RxTe.dat` — Arquivo contendo a o gráfico de Razão x Temperatura Eletrônica de André Ricard. **⚠️ Não modifique este arquivo.**
 
 ## ⚙️ Execução Local (opcional)
 
