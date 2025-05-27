@@ -2,7 +2,7 @@
 
 ## 📘 Descrição
 
-Este notebook é autoexplicativo e foi desenvolvido para ser lido em conjunto com a monografia associada.
+Este notebook é autoexplicativo e foi desenvolvido para ser analisado em conjunto com a monografia associada. O programa é aplicável exclusivamente a plasmas de gás nitrogênio (N₂), com foco no Segundo Sistema Positivo da molécula neutra (N₂) e no Primeiro Sistema Negativo do íon molecular (N₂⁺). Outras transições eletrônicas ou espécies não foram testadas.
 
 ## ▶️ Como Visualizar
 
@@ -14,7 +14,7 @@ Para visualizar o código e os resultados diretamente pelo GitHub, basta clicar 
 
 Certifique-se de que os seguintes arquivos estejam no mesmo diretório do notebook para garantir o funcionamento correto durante a execução:
 
-- `100mA.txt` (Arquivo de dados espectroscópicos, pode ser modificado por outro arquivo)
+- `100mA.txt` (Arquivo de dados espectroscópicos, contendo Intensidade x Comprimento de Onda em nm. Pode ser modificado por outros dados de espectros)
 - `RxTe.dat` (Arquivo contendo a o gráfico de Razão x Temperatura Eletrônica de André Ricard. NUNCA MODIFIQUE ESSE ARQUIVO)
 
 ## ⚙️ Execução Local (opcional)
