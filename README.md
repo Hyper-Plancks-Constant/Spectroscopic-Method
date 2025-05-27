@@ -1,7 +1,8 @@
-# 📊 Spectroscopic Analysis with `Metodo_Espectroscopico.ipynb`
+# 📊 Spectroscopic Analysis with `Spectroscopic_Method.ipynb`
 
 > 🇧🇷 This repository is originally written in Portuguese.  
 > For the original version, see: [README.pt-br.md](README.pt-br.md)
+> The notebook is also available in Portuguese. See the original version in the Portuguese README!
 
 ## 📘 Description
 
@@ -11,7 +12,7 @@ This notebook was designed to be self-explanatory and should be read in conjunct
 
 To preview the code and its outputs directly on GitHub, simply click the file below and use GitHub’s native Jupyter Notebook viewer:
 
-🔗 [`Metodo_Espectroscopico.ipynb`](./Metodo_Espectroscopico.ipynb)
+🔗 [`Spectroscopic_Method.ipynb`](./Spectroscopic_Method.ipynb)
 
 ## 📁 Required Files (for testing purposes)
 
@@ -33,6 +34,6 @@ If you wish to run the notebook locally:
 3. Then, launch the notebook with:
 
    ```bash
-   jupyter notebook Metodo_Espectroscopico.ipynb
+   jupyter notebook Spectroscopic_Method.ipynb
 
 Feel free to explore, adapt, or use this project as a reference for spectroscopic analysis in gas discharges. ✨
