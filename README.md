@@ -1,7 +1,8 @@
 # 📊 Spectroscopic Analysis with `Spectroscopic_Method.ipynb`
 
 > 🇧🇷 This repository is originally written in Portuguese.  
-> For the original version, see: [README.pt-br.md](README.pt-br.md).
+> For the original version, see: [README.pt-br.md](README.pt-br.md)
+
 > The notebook is also available in Portuguese. See the original version in the Portuguese README!
 
 ## 📘 Description
