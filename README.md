@@ -10,7 +10,7 @@ Para visualizar o código e os resultados diretamente pelo GitHub, basta clicar 
 
 🔗 [`Espectro_Totalmente_Oficial.ipynb`](./Espectro_Totalmente_Oficial.ipynb)
 
-## 📁 Arquivos Necessários
+## 📁 Arquivos Necessários (Caso desejar testar o programa)
 
 Certifique-se de que os seguintes arquivos estejam no mesmo diretório do notebook para garantir o funcionamento correto durante a execução:
 
