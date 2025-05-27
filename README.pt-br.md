@@ -2,6 +2,7 @@
 
 > 🌐 Este repositório está disponível em Português.  
 > Para uma versão em Inglês (English), consulte: [README.md](README.md)
+> O notebook também está disponível em Inglês. Consulte esta [`versão`](./Spectroscopic_Method.ipynb) no arquivo README em inglês! 
 
 ## 📘 Descrição
 
