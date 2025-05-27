@@ -1,5 +1,8 @@
 # 📊 Análises Espectroscópicas com Espectro_Totalmente_Oficial.ipynb
 
+> 🌐 Este repositório está disponível em português.  
+> Para uma versão em inglês, consulte: [README_en.md](README_en.md) *(em breve)*
+
 ## 📘 Descrição
 
 Este notebook é autoexplicativo e foi desenvolvido para ser analisado em conjunto com a monografia associada. O programa é aplicável exclusivamente a plasmas de gás nitrogênio (N₂), com foco no Segundo Sistema Positivo da molécula neutra (N₂) e no Primeiro Sistema Negativo do íon molecular (N₂⁺). Outras transições eletrônicas ou espécies não foram testadas.
