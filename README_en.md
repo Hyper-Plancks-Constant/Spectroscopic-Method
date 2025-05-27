@@ -1,0 +1,38 @@
+# 📊 Spectroscopic Analysis with `Espectro_Totalmente_Oficial.ipynb`
+
+> 🇧🇷 This repository is originally written in Portuguese.  
+> For the original version, see: [README.md](README.md)
+
+## 📘 Description
+
+This notebook was designed to be self-explanatory and should be read in conjunction with the associated monograph. The program is specifically tailored for nitrogen gas plasmas (N₂), focusing on the Second Positive System of the neutral nitrogen molecule (N₂) and the First Negative System of the molecular ion (N₂⁺). Other electronic transitions or species have not been tested.
+
+## ▶️ How to View
+
+To preview the code and its outputs directly on GitHub, simply click the file below and use GitHub’s native Jupyter Notebook viewer:
+
+🔗 [`Espectro_Totalmente_Oficial.ipynb`](./Espectro_Totalmente_Oficial.ipynb)
+
+## 📁 Required Files (for testing purposes)
+
+Make sure the following files are in the same directory as the notebook to ensure correct functionality:
+
+- `100mA.txt` — Spectroscopic data file containing intensity vs. wavelength (nm). You may replace this with other experimental spectra.
+- `RxTe.dat` — File containing André Ricard’s plot of Ratio vs. Electron Temperature.  **⚠️ Do not modify this file.**
+
+## ⚙️ Local Execution (optional)
+
+If you wish to run the notebook locally:
+
+1. Make sure Python 3.x is installed.
+2. Install the required dependencies by running:
+
+   ```bash
+   pip install -r requirements.txt
+
+3. Then, launch the notebook with:
+
+   ```bash
+   jupyter notebook Espectro_Totalmente_Oficial.ipynb
+
+Feel free to explore, adapt, or use this project as a reference for spectroscopic analysis in gas discharges. ✨
