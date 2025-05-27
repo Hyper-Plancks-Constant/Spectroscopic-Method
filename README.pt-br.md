@@ -1,7 +1,7 @@
 # 📊 Análises Espectroscópicas com Espectro_Totalmente_Oficial.ipynb
 
-> 🌐 Este repositório está disponível em português.  
-> Para uma versão em inglês, consulte: [README.md](README.md)
+> 🌐 Este repositório está disponível em Português.  
+> Para uma versão em Inglês (English), consulte: [README.md](README.md)
 
 ## 📘 Descrição
 
