@@ -1,4 +1,4 @@
-# 📊 Análise Espectral com Espectro_Totalmente_Oficial.ipynb
+# 📊 Análises Espectroscópicas com Espectro_Totalmente_Oficial.ipynb
 
 ## 📘 Descrição
 
