@@ -1,4 +1,4 @@
-# 📊 Análises Espectroscópicas com Espectro_Totalmente_Oficial.ipynb
+# 📊 Análises Espectroscópicas com Metodo_Espectroscopico.ipynb
 
 > 🌐 Este repositório está disponível em Português.  
 > Para uma versão em Inglês (English), consulte: [README.md](README.md)
@@ -11,7 +11,7 @@ Este notebook é autoexplicativo e foi desenvolvido para ser analisado em conjun
 
 Para visualizar o código e os resultados diretamente pelo GitHub, basta clicar no arquivo abaixo e usar o visualizador nativo do Jupyter:
 
-🔗 [`Espectro_Totalmente_Oficial.ipynb`](./Espectro_Totalmente_Oficial.ipynb)
+🔗 [`Metodo_Espectroscopico.ipynb`](./Metodo_Espectroscopico.ipynb)
 
 ## 📁 Arquivos Necessários (caso desejar testar o programa)
 
