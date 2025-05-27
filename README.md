@@ -5,7 +5,7 @@
 
 ## 📘 Description
 
-This notebook was designed to be self-explanatory and should be read in conjunction with the associated monograph. The program is specifically tailored for nitrogen gas plasmas (N₂), focusing on the Second Positive System of the neutral nitrogen molecule (N₂) and the First Negative System of the molecular ion (N₂⁺). Other electronic transitions or species have not been tested.
+This notebook was designed to be self-explanatory and should be read in conjunction with the associated monograph. The program is specifically designed for nitrogen gas plasmas (N₂), focusing on the Second Positive System of the neutral nitrogen molecule (N₂) and the First Negative System of the molecular ion (N₂⁺). Other electronic transitions or species have not been tested.
 
 ## ▶️ How to View
 
@@ -33,6 +33,6 @@ If you wish to run the notebook locally:
 3. Then, launch the notebook with:
 
    ```bash
-   jupyter notebook Espectro_Totalmente_Oficial.ipynb
+   jupyter notebook Metodo_Espectroscopico.ipynb
 
 Feel free to explore, adapt, or use this project as a reference for spectroscopic analysis in gas discharges. ✨
