@@ -34,3 +34,5 @@ Se preferir rodar o notebook localmente:
 
     ```bash
     jupyter notebook Espectro_Totalmente_Oficial.ipynb
+
+Sinta-se à vontade para explorar, adaptar e utilizar este projeto como base para outros estudos espectroscópicos em descargas gasosas. ✨
