@@ -1,7 +1,7 @@
 # 📊 Spectroscopic Analysis with `Espectro_Totalmente_Oficial.ipynb`
 
 > 🇧🇷 This repository is originally written in Portuguese.  
-> For the original version, see: [README.md](README.md)
+> For the original version, see: [README.pt-br.md](README.pt-br.md)
 
 ## 📘 Description
 
