@@ -2,8 +2,8 @@
 
 > 🌐 Este repositório está disponível em Português.  
 > Para uma versão em Inglês (English), consulte: [README.md](README.md)  
-> O notebook também está disponível em Inglês. Consulte esta [`versão`](./Spectroscopic_Method.ipynb) no arquivo README em inglês!
-> Este repositório está descrito como produção técnica no Currículo Lattes do [`autor`](http://lattes.cnpq.br/3150100365693703).
+> O notebook também está disponível em Inglês. Consulte esta [`versão`](./Spectroscopic_Method.ipynb) no arquivo README em inglês! 
+> Este repositório está descrito como produção técnica no Currículo Lattes do [`autor`](http://lattes.cnpq.br/3150100365693703). 
 
 ## 📘 Descrição
 
