@@ -2,7 +2,8 @@
 
 > 🇧🇷 This repository was originally written in Portuguese.  
 > For the original version, see: [README.pt-br.md](README.pt-br.md)  
-> The notebook is also available in Portuguese. See the [`original version`](./Metodo_Espectroscopico.ipynb) in the Portuguese README!
+> The notebook is also available in Portuguese. See the [`original version`](./Metodo_Espectroscopico.ipynb) in the Portuguese README!  
+> This repository is listed as a technical production in the author's [`Lattes Curriculum`](http://lattes.cnpq.br/3150100365693703).  
 
 ## 📘 Description
 
