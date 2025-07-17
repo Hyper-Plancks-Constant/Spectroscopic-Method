@@ -7,7 +7,7 @@
 
 ## 📘 Description
 
-This notebook was designed to be self-explanatory and should be read in conjunction with the associated monograph. The program is specifically designed for nitrogen gas plasmas (N₂), focusing on the Second Positive System of the neutral nitrogen molecule (N₂) and the First Negative System of the molecular ion (N₂⁺). Other electronic transitions or species have not been tested.
+This notebook was designed to be self-explanatory and should be read in conjunction with the associated monograph/paper. The program is specifically designed for nitrogen gas plasmas (N₂), focusing on the Second Positive System of the neutral nitrogen molecule (N₂) and the First Negative System of the molecular ion (N₂⁺). Other electronic transitions or species have not been tested.
 
 ## ▶️ How to View
 
