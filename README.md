@@ -1,4 +1,4 @@
-# 📊 Spectroscopic Analysis with `OES_Ro_Vibrational_Temperature_Diagnostics.ipynb`
+# 📊 Spectroscopic Analysis with `OES_Tv_Tr_Diagnostics.ipynb`
 
 > This repository is listed as a technical production in the author's [`Lattes Curriculum`](http://lattes.cnpq.br/3150100365693703).  
 
@@ -10,7 +10,7 @@ This notebook was designed to be self-explanatory and should be read in conjunct
 
 To preview the code and its outputs directly on GitHub, simply click the file below and use GitHub’s native Jupyter Notebook viewer:
 
-🔗 [`OES_Ro_Vibrational_Temperature_Diagnostics.ipynb`](./OES_Ro_Vibrational_Temperature_Diagnostics.ipynb)
+🔗 [`OES_Tv_Tr_Diagnostics.ipynb`](./OES_Tv_Tr_Diagnostics.ipynb)
 
 ## ⚙️ Local Execution (optional)
 
