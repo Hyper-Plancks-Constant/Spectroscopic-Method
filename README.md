@@ -1,26 +1,16 @@
-# 📊 Spectroscopic Analysis with `Spectroscopic_Method.ipynb`
+# 📊 Spectroscopic Analysis with `OES_Ro_Vibrational_Temperature_Diagnostics.ipynb`
 
-> 🇧🇷 This repository was originally written in Portuguese.  
-> For the original version, see: [README.pt-br.md](README.pt-br.md)  
-> The notebook is also available in Portuguese. See the [`original version`](./Metodo_Espectroscopico.ipynb) in the Portuguese README!  
 > This repository is listed as a technical production in the author's [`Lattes Curriculum`](http://lattes.cnpq.br/3150100365693703).  
 
 ## 📘 Description
 
-This notebook was designed to be self-explanatory and should be read in conjunction with the associated monograph. The program is specifically designed for nitrogen gas plasmas (N₂), focusing on the Second Positive System of the neutral nitrogen molecule (N₂) and the First Negative System of the molecular ion (N₂⁺). Other electronic transitions or species have not been tested.
+This notebook was designed to be self-explanatory and should be read in conjunction with the associated paper. The program is specifically designed for nitrogen gas plasmas (N₂), focusing on the Second Positive System of the neutral nitrogen molecule (N₂) and the First Negative System of the molecular ion (N₂⁺). Other electronic transitions or species have not been tested.
 
 ## ▶️ How to View
 
 To preview the code and its outputs directly on GitHub, simply click the file below and use GitHub’s native Jupyter Notebook viewer:
 
-🔗 [`Spectroscopic_Method.ipynb`](./Spectroscopic_Method.ipynb)
-
-## 📁 Required Files (for testing purposes)
-
-Make sure the following files are in the same directory as the notebook to ensure correct functionality:
-
-- `100mA.txt` — Spectroscopic data file containing intensity vs. wavelength (nm). You may replace this with other experimental spectra.
-- `RxTe.dat` — File containing André Ricard’s plot of Ratio vs. Electron Temperature.  **⚠️ Do not modify this file.**
+🔗 [`OES_Ro_Vibrational_Temperature_Diagnostics.ipynb`](./OES_Ro_Vibrational_Temperature_Diagnostics.ipynb)
 
 ## ⚙️ Local Execution (optional)
 
