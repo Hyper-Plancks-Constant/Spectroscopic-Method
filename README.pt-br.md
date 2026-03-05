@@ -7,7 +7,7 @@
 
 ## 📘 Descrição
 
-Este notebook é autoexplicativo e foi desenvolvido para ser analisado em conjunto com a monografia (ou o artigo) associada. O programa é aplicável exclusivamente a plasmas de gás nitrogênio (N₂), com foco no Segundo Sistema Positivo da molécula neutra (N₂) e no Primeiro Sistema Negativo do íon molecular (N₂⁺). Outras transições eletrônicas ou espécies não foram testadas.
+Este notebook é autoexplicativo e foi desenvolvido para ser analisado em conjunto com a monografia associada. O programa é aplicável exclusivamente a plasmas de gás nitrogênio (N₂), com foco no Segundo Sistema Positivo da molécula neutra (N₂) e no Primeiro Sistema Negativo do íon molecular (N₂⁺). Outras transições eletrônicas ou espécies não foram testadas.
 
 ## ▶️ Como Visualizar
 
